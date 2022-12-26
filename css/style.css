@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #707A7F
+  
 }
 
 :root {
@@ -29,6 +29,7 @@ input {
 
 body {
     font-family: var(--roboto);
+    background: #707A7F
 }
 
 .container {
@@ -118,7 +119,6 @@ body {
     display: flex;
     flex-direction: column;
     gap: 80px;
-    background: #707A7F
 }
 
 .main__top-top {
@@ -218,6 +218,7 @@ body {
     gap: 16px;
     margin-top: 120px;
     margin-bottom: 80px;
+    
 }
 
 .main__slider-top h3 {
@@ -366,7 +367,7 @@ body {
 /* started footer */
 
 .footer {
-    background: #707A7F;
+    background: #A0A0A0;
     padding-top: 70px;
 }
 
